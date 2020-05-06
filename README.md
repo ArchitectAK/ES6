@@ -10,5 +10,5 @@ It means that we now have a ton of new options to work with when designing our J
 
 ## Transpiling ES6
 
-- [In-browswer bable transpiling](./babel-transpiling/index.html)
-- [Webpack transpiling](./webspack-transpiling)
+- [In-browswer babel transpiling](./babel-transpiling/index.html)
+- [Webpack transpiling](./webpack-transpiling)
