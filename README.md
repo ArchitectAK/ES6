@@ -15,5 +15,5 @@ It means that we now have a ton of new options to work with when designing our J
 
 ## ES6 Syntex
 
-- [Using `let` keyword](./using-let-keyword/index.html)
-- [Using `const` keyword](./using-const-keyword/index.html)
+- [Using `let` keyword](./using-let-keyword/index.html) - `let` is a great tool for enforcing block scoping in your JavaScript code.
+- [Using `const` keyword](./using-const-keyword/index.html) - `const` is a great tool to use when we're dealing with constant values.
