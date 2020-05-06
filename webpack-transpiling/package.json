@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/AnkitDroidGit/ES6#readme",
   "devDependencies": {
+    "babel-loader": "^8.1.0",
     "bable-loader": "0.0.1-security"
   }
 }

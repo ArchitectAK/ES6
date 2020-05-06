@@ -1,5 +1,5 @@
-var nameBuilder = function(firstName="Joe", lastName="Doe") {
-			console.log(firstName + " " + lastName);
-		};
+var nameBuilder = function (firstName = "Ankit", lastName = "Kumar") {
+  console.log(firstName + " " + lastName);
+};
 
 nameBuilder();
