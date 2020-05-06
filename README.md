@@ -12,3 +12,8 @@ It means that we now have a ton of new options to work with when designing our J
 
 - [In-browswer babel transpiling](./babel-transpiling/index.html)
 - [Webpack transpiling](./webpack-transpiling)
+
+## ES6 Syntex
+
+- [Using `let` keyword](./using-let-keyword/index.html)
+- [Using `const` keyword](./using-const-keyword/index.html)
