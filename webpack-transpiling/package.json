@@ -25,5 +25,8 @@
     "babel-loader": "^8.1.0",
     "bable-loader": "0.0.1-security",
     "webpack": "^1.15.0"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
   }
 }
