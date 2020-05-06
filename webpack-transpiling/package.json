@@ -1,0 +1,29 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitDroidGit/ES6.git"
+  },
+  "keywords": [
+    "es6",
+    "webpack"
+  ],
+  "author": "Ankit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnkitDroidGit/ES6/issues"
+  },
+  "homepage": "https://github.com/AnkitDroidGit/ES6#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "bable-loader": "0.0.1-security",
+    "webpack": "^1.15.0"
+  }
+}
