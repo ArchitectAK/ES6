@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
+    <script type="text/babel">
+      function coldEnough(degree) {
+        const freezingTemp = 32;
+        if (freezingTemp <= degree) {
+          return degree + " is above freezing";
+        } else {
+          return degree + " is below freezing";
+        }
+      }
+      console.log(coldEnough(40));
+      console.log(coldEnough(12));
+      console.log(coldEnough(-10));
+      console.log(coldEnough(100));
+    </script>
+    <title>Const Keyword</title>
+  </head>
+  <body></body>
+</html>
