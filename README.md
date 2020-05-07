@@ -18,7 +18,7 @@ It means that we now have a ton of new options to work with when designing our J
 - [Using `let` keyword](./using-let-keyword/index.html) - `let` is a great tool for enforcing block scoping in your JavaScript code.
 - [Using `const` keyword](./using-const-keyword/index.html) - `const` is a great tool to use when we're dealing with constant values.
 - [Template String](./template-string/index.html) - Template string allow us to create strings that are longer and that have a lot of dynamic content in them.
-- [Spread Operators](./spread-operator/index.html) - The spread operator can turn the elements of an array into arguments of a function call, or into elements of an array literal. 
+- [Spread Operators](./spread-operator/index.html) - The spread operator can turn the elements of an array into arguments of a function call, or into elements of an array literal.
 - [Map](./map/index.html)
   - Holds key value pairs
   - Any type can be used as a key
@@ -26,3 +26,7 @@ It means that we now have a ton of new options to work with when designing our J
     - When you have to use something other than a string as key
     - To utilize key value pairs that are always the same values
     - For iterating in order
+- [Sets](sets/index.html)
+  - Collections of values
+  - Can be on any type
+  - Each value must be unique
