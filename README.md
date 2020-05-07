@@ -1,4 +1,4 @@
-# Understding ES6 with examples
+# Understanding ES6 with examples
 
 ## What is ECMAScript6?
 
