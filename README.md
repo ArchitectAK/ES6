@@ -33,3 +33,5 @@ It means that we now have a ton of new options to work with when designing our J
 - [The for...of loop](for...of-loop/index.html) - For-of is a new loop in ES6 that we can use to loop over iterable objects like arrays, strings, maps, and sets.
 
 ## ES6 Functins and Objects
+
+- [Default function parameters](deafult-function-parameters/index.html) - Default parameters can be extremely useful when you want to use a default value if another value is not provided.
