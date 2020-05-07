@@ -30,4 +30,6 @@ It means that we now have a ton of new options to work with when designing our J
   - Collections of values
   - Can be on any type
   - Each value must be unique
-- [The for...of loop]() - For-of is a new loop in ES6 that we can use to loop over iterable objects like arrays, strings, maps, and sets. 
+- [The for...of loop](for...of-loop/index.html) - For-of is a new loop in ES6 that we can use to loop over iterable objects like arrays, strings, maps, and sets.
+
+## ES6 Functins and Objects
