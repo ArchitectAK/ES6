@@ -35,3 +35,4 @@ It means that we now have a ton of new options to work with when designing our J
 ## ES6 Functins and Objects
 
 - [Default function parameters](deafult-function-parameters/index.html) - Default parameters can be extremely useful when you want to use a default value if another value is not provided.
+- [Enhancing object literals](enhanced-object-iterals/index.html) - ES6 enhancements give us ways of shortening and simplifying object literals.
