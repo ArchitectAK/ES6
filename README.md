@@ -37,3 +37,4 @@ It means that we now have a ton of new options to work with when designing our J
 - [Default function parameters](deafult-function-parameters/index.html) - Default parameters can be extremely useful when you want to use a default value if another value is not provided.
 - [Enhancing object literals](enhanced-object-iterals/index.html) - ES6 enhancements give us ways of shortening and simplifying object literals.
 - [Arrow function](arrow-function/index.html) - Arrow functions are a great way to make your JavaScript code more readable and more compact.
+- [Arrow functions and the `this` scope](arrow-functions-and-the-this-scope/index.html) - In the previous topic we reviewed how arrow functions can make our code more readable. In addition, arrow functions can help us deal with the scope of the 'this' keyword in our JavaScript code. 
