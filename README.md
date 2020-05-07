@@ -56,4 +56,8 @@ It means that we now have a ton of new options to work with when designing our J
     - Iterator - a standard way to produce a sequesnce of values.
 
 ## Asynchronous Features
-- [Promises]()
+
+- [Promises](promises/index.html) -
+  - Promises have emerged in the S6 to help us deal with asynchronous behavior in JavaScript.
+  - When something is asynchronous it means that some sort of weighting is going on.
+  - They make asynchronous code more manageable and more reusable.
