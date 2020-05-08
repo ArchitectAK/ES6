@@ -61,3 +61,4 @@ It means that we now have a ton of new options to work with when designing our J
   - Promises have emerged in the S6 to help us deal with asynchronous behavior in JavaScript.
   - When something is asynchronous it means that some sort of weighting is going on.
   - They make asynchronous code more manageable and more reusable.
+- [Building promises](building-promises/index.html) - Often we use promises to load data. This example has a function called spacePeople that returns a promise. We'll call it space people because it's going to fetch some data from an API of astronauts currently in space. This is going to be a function that returns a promise.
