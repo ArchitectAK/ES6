@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.js"></script>
+    <script type="text/babel">
+      class Vehicle {
+        constructor(description, wheels) {
+          this.description = description;
+          this.wheels = wheels;
+        }
+        describeYourself() {
+          console.log(`I am a ${this.description} with ${this.wheels} wheels`);
+        }
+      }
+      var coolSkiVan = new Vehicle("cool ski van", 4);
+
+      coolSkiVan.describeYourself();
+    </script>
+    <title>Classes</title>
+  </head>
+  <body></body>
+</html>
