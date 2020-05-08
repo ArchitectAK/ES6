@@ -66,3 +66,8 @@ It means that we now have a ton of new options to work with when designing our J
   - Fetch function simplifyy all code from [Building promises](building-promises/index.html) section.
   - The fetch function works natively in most browsers.
   - There are also node packages that work with fetch like node fetch and isomorphic fetch.
+- [Async and await](async-and-await/index.html) -
+  - Async functions give us another way of dealing with asynchronous javascript.
+  - Previously we only had access to `callbacks` and to `promises` but with `async` `await` we can write asynchronous code with a more synchronous looking code structure.
+  - The `async` keyword makes it possible for us to write some cleaner more readable code but to also take advantage of asynchronous behavior.
+  - Another nice benefit of using async await is that we have air handling and it's sometimes a little bit easier to debug than a promise.
