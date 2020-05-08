@@ -62,3 +62,7 @@ It means that we now have a ton of new options to work with when designing our J
   - When something is asynchronous it means that some sort of weighting is going on.
   - They make asynchronous code more manageable and more reusable.
 - [Building promises](building-promises/index.html) - Often we use promises to load data. This example has a function called spacePeople that returns a promise. We'll call it space people because it's going to fetch some data from an API of astronauts currently in space. This is going to be a function that returns a promise.
+- [Loading data with fetch](loading-data-with-fetch/index.html) -
+  - Fetch function simplifyy all code from [Building promises](building-promises/index.html) section.
+  - The fetch function works natively in most browsers.
+  - There are also node packages that work with fetch like node fetch and isomorphic fetch.
