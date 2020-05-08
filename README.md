@@ -79,3 +79,4 @@ It means that we now have a ton of new options to work with when designing our J
 ## ES6 Classes
 
 - [ES6 class syntax](es6-class-syntax/index.html)
+- [Class inheritance](class-inheritance/index.html)
