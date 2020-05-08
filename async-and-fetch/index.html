@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      (async (loginName) => {
+        try {
+          var response = await fetch(
+            `https://api.github.com/users/${loginName}/followers?per_page=100`
+          );
+          var json = await response.json();
+          var followerList = json.map((user) => user.login);
+          console.log(followerList);
+        } catch (e) {
+          console.log("Data didn't load", e);
+        }
+      })("AnkitDroidGit");
+    </script>
+    <title>Async and Fetch</title>
+  </head>
+  <body></body>
+</html>

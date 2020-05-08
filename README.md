@@ -7,9 +7,9 @@ ECMA stand for European Computer Manufacturer Association. ECMA is the associati
 It means that we now have a ton of new options to work with when designing our JavaScript projects. We have new keywords available for declaring variables, like let and const. For functions, we can also use default parameters and arrow functions. ES 6 also contains classes, template strings, and new ways for dealing with arrays and objects.
 
 # Examples
+
 - Open browser's console to view all results and logs of the example programs.
 - For Google Chrome -> Go to Developer Tools and then select console tab.
-
 
 ## Transpiling ES6
 
@@ -73,4 +73,5 @@ It means that we now have a ton of new options to work with when designing our J
   - Async functions give us another way of dealing with asynchronous javascript.
   - Previously we only had access to `callbacks` and to `promises` but with `async` `await` we can write asynchronous code with a more synchronous looking code structure.
   - The `async` keyword makes it possible for us to write some cleaner more readable code but to also take advantage of asynchronous behavior.
-  - Another nice benefit of using `async` `await` is that we have error handling and it's sometimes a little bit easier to debug than a promise.
+  - Another nice benefit of using `async` `await` is that we have air handling and it's sometimes a little bit easier to debug than a promise.
+- [Async and fetch](async-and-fetch/index.html) - Fetch is by definition is asynchronous, we make a request, and then we wait to get some data back.  So we're going to do just this inside of an async function using Github request.
