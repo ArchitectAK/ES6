@@ -79,7 +79,7 @@ It means that we now have a ton of new options to work with when designing our J
 ## ES6 Classes
 
 - [ES6 class syntax](https://github.com/AnkitDroidGit/ES6/blob/master/es6-class-syntax/index.html)
-- [Class inheritance](class-inheritance/index.html) - The idea of class inheritance is pretty simple. We create one super class and then we can extend this class for reuse in different ways. Developers who have come to JavaScript from Python or Java are usually pretty excited to hear this because it's so similar to the class syntax of those languages.
+- [Class inheritance](https://github.com/AnkitDroidGit/ES6/blob/master/class-inheritance/index.html) - The idea of class inheritance is pretty simple. We create one super class and then we can extend this class for reuse in different ways. Developers who have come to JavaScript from Python or Java are usually pretty excited to hear this because it's so similar to the class syntax of those languages.
 - [Getters and setters](https://github.com/AnkitDroidGit/ES6/blob/master/getters-and-setters/index.html) -
   - A getter is a method that gets the value of a specific property
   - A setter is a method that sets the value of a specific property
