@@ -88,7 +88,7 @@ It means that we now have a ton of new options to work with when designing our J
 Happy learning and coding !!!
 
 ## Would you like to buy me a cup of coffee?
-#### I'd appreciate even your little contribution to my work, it helps me keep this Open Source updated. If this project helped you or your business and if you feel like donating some bucks, you can [Paypal Me](https://paypal.me/cogitator?locale.x=en_US)
+I'd appreciate even your little contribution to my work, it helps me keep this Open Source updated. If this project helped you or your business and if you feel like donating some bucks, you can [Paypal Me](https://paypal.me/cogitator?locale.x=en_US)
 
 or
 
